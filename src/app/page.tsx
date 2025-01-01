@@ -1,7 +1,10 @@
+import Parent from "./Components/Parent";
 
 
 export default function Home() {
   return (
-    <div></div>
+    <div>
+      <Parent/>
+    </div>
   );
 }
