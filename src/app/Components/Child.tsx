@@ -1,6 +1,6 @@
 
 
-export default function Child(props) {
+export default function Child(props:any) {
   return (
     <div className="border rounded-lg p-4 bg-white shadow-lg">
       <img
